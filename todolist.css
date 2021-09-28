@@ -1,0 +1,41 @@
+.card {
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+  height: 100vh;
+  text-align: center;
+  background-size: cover;
+  color: white;
+}
+
+.main-heading {
+  font-family: Roboto;
+}
+
+.paragraph {
+  font-family: Roboto;
+}
+
+.para {
+  text-align: left;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.parag {
+  text-align: left;
+  font-family: Roboto;
+}
+
+.button {
+  height: 40px;
+  width: 100px;
+  color: white;
+  background-color: #eb9c34;
+  font-family: Roboto;
+  font-size: bold;
+}
+
+.paragr {
+  font-family: Roboto;
+  text-decoration: underline;
+  font-weight: normal;
+}
